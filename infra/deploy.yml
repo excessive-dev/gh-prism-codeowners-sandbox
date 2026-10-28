@@ -1,2 +1,3 @@
 service: fixture
 replicas: 1
+region: test-1
