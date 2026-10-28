@@ -1,0 +1,6 @@
+# Fake ownership for gh-prism's code-owners checks. The last matching rule wins.
+/web/            @excessive-dev/frontend
+/docs/           @macintacos
+/api/            @excessive-dev/platform @macintacos
+/infra/          @excessive-dev/platform
+/api/generated/  @excessive-dev/frontend

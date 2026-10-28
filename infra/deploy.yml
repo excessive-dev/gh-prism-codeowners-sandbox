@@ -1,0 +1,2 @@
+service: fixture
+replicas: 1
