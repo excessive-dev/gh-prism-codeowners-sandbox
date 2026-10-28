@@ -4,3 +4,4 @@
 /api/            @excessive-dev/platform @macintacos
 /infra/          @excessive-dev/platform
 /api/generated/  @excessive-dev/frontend
+/notes/          @excessive-dev/frontend
