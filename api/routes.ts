@@ -1,1 +1,1 @@
-export const routes = ["/health", "/items"];
+export const routes = ["/health", "/items", "/vendors"];
