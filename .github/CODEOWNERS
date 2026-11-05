@@ -4,3 +4,5 @@
 /api/            @excessive-dev/platform @macintacos
 /infra/          @excessive-dev/platform
 /api/generated/  @excessive-dev/frontend
+# No owners: api/vendor/ has no code owner, though /api/ above owns the rest of api/.
+/api/vendor/
